@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/787321091.svg)](https://zenodo.org/doi/10.5281/zenodo.10978017)
+
 Extracted code for publication. The initial commit of this repository is what has been used in the article. The script `cluster_geneClusters_mash_based.py` should be able to run from here with proper environment setup.
 
 The script has some dependencies and will be maintained as one of the scripts in https://github.com/snail123815/pybioinfo
